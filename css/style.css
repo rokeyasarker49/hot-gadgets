@@ -32,3 +32,8 @@ section h6 {
 .catagories-picture {
     box-shadow: rgba(0, 0, 0, 0.329) 0px 18px 50px -10px;
 }
+
+.container hr {
+   background-color: #df4a1d;
+    height: 5px;
+}
